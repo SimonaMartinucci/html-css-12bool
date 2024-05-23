@@ -1,0 +1,44 @@
+:root {
+    --grey: #35444b;
+    --orange: #ffca2a;
+    --yellow: #ffe902;
+    --red: #cf1311;
+    --light-or: #f9ce1f;
+    --light-ye: #faee38;
+}
+
+.row {
+    height: 20px;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+.grey {
+    background-color: var(--grey);
+}
+
+.orange {
+    background-color: var(--orange);
+}
+
+.yellow {
+    background-color: var(--yellow);
+}
+
+.red {
+    background-color: var(--red);
+}
+
+.light-or {
+    background-color: var(--light-or);
+}
+
+.light-ye {
+    background-color: var(--light-ye);
+}
