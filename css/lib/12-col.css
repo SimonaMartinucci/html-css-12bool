@@ -136,3 +136,40 @@
 .col-offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
+
+/* regole flex */
+
+/* justify content */
+.start {
+    justify-content: flex-start;
+}
+
+.center {
+    justify-content: center;
+}
+
+.end {
+    justify-content: flex-end;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+/* align items */
+.top {
+    align-items: flex-start;
+}
+
+.middle {
+    align-items: center;
+}
+
+.bottom {
+    align-items: flex-end;
+}
+

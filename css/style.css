@@ -15,11 +15,15 @@
 
 .box,
 .box [class*="col-"] {
-    background-color: rgb(14, 215, 14);
     height: 40px;
     width: calc(100% - 20px);
 }
 
 .box [class*="col-"] {
     border: 1px solid blue;
+    background-color: rgb(14, 215, 14);
+}
+
+.double {
+    height: 120px;
 }
