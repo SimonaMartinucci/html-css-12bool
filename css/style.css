@@ -1,0 +1,10 @@
+/* DEBUG */
+[class*="col-"] {
+    height: 50px;
+    background-color: blue;
+    border: 1px solid white;
+}
+
+.container {
+    margin-bottom: 20px;
+}
